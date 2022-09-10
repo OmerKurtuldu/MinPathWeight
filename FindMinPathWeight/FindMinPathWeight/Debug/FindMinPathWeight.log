@@ -1,0 +1,3 @@
+﻿  FindMinPathWight.cpp
+C:\Users\LENOVO\Desktop\FindMinPathWeight\FindMinPathWeight\FindMinPathWight.cpp(82,63): error C2660: 'minSummation': function does not take 4 arguments
+C:\Users\LENOVO\Desktop\FindMinPathWeight\FindMinPathWeight\FindMinPathWight.cpp(8,5): message : see declaration of 'minSummation'
